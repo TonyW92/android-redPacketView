@@ -1,3 +1,6 @@
+csdn博文地址：http://blog.csdn.net/wz249863091/article/details/73744397
+
+
 背景知识
 ----
 ----------
@@ -139,6 +142,6 @@ xml就不介绍了，只要在一个ViewGroup里加入控件就好了
 </br>
 来看看效果
 </br>
-![这里写图片描述](http://img.blog.csdn.net/20170626222825645?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3oyNDk4NjMwOTE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![image](https://github.com/TonyW92/android-redPacketView/blob/master/effect_picture.gif)
 </br>
 如果你想把他用到你的项目中，还需要对path的宽度做一个适配
