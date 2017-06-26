@@ -8,7 +8,7 @@ csdn博文地址：http://blog.csdn.net/wz249863091/article/details/73744397
 使用Xfermode中的PorterDuffXfermode实现我们的刮奖效果
 PorterDuffXfermode  这是一个非常强大的转换模式，使用它，可以使用图像合成的16条Porter-Duff规则的任意一条来控制Paint如何与已有的Canvas图像进行交互。
 我们来看下官方的效果图
-![[image]](https://github.com/TonyW92/android-redPacketView/blob/master/xg.png)
+![image](https://github.com/TonyW92/android-redPacketView/blob/master/xg.png)
 这里就不一一讲述了，我们采用的是DcIn的模式--在源图和目标图相交的地方画目标图像
 </br>
 </br>
